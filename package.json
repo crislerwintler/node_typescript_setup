@@ -1,7 +1,7 @@
 {
-  "name": "api_deno",
+  "name": "typescript_node_setup",
   "version": "1.0.0",
-  "description": "API using typescript",
+  "description": "setting project with typescript to build application",
   "main": "src/index.js",
   "author": "Crisler",
   "license": "MIT",
