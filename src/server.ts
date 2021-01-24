@@ -2,8 +2,6 @@ import express, { request, response } from 'express';
 
 const app = express();
 
-app.get('/', (request, response) => {
-  return response.json({ message: 'y sou um cara muito bonitão'})
-})
+app.get('/', (request, response) => response.json({ message: 'y sou um cara muito bonitão' }));
 
-app.listen(3000)
+app.listen(3000);
